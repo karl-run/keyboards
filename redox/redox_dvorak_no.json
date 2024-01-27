@@ -183,7 +183,7 @@
       "RALT(KC_7)",
       "RALT(KC_0)",
       "KC_EQL",
-      "KC_NO",
+      "RALT(KC_RBRC)",
       "KC_NO",
       "KC_HOME",
       "KC_LEFT",
