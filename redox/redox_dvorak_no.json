@@ -135,7 +135,7 @@
       "KC_DOT",
       "KC_MINS",
       "RSFT_T(KC_RBRC)",
-      "KC_NO",
+      "MEH(KC_NO)",
       "KC_LCTL",
       "KC_LGUI",
       "KC_LALT",
@@ -148,7 +148,7 @@
       "KC_RALT",
       "KC_APP",
       "KC_RCTL",
-      "KC_NO"
+      "MEH(KC_NO)"
     ],
     [
       "KC_GRV",
@@ -207,7 +207,7 @@
       "KC_NO",
       "KC_NO",
       "KC_RSFT",
-      "KC_NO",
+      "MEH(KC_NO)",
       "KC_LCTL",
       "KC_LGUI",
       "KC_LALT",
@@ -220,7 +220,7 @@
       "KC_RALT",
       "KC_APP",
       "KC_RCTL",
-      "KC_NO"
+      "MEH(KC_NO)"
     ],
     [
       "KC_NO",
