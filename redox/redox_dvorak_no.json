@@ -63,7 +63,7 @@
       "KC_V",
       "KC_Z",
       "RSFT_T(KC_INT3)",
-      "KC_NO",
+      "MEH(KC_NO)",
       "KC_LCTL",
       "KC_LGUI",
       "KC_LALT",
@@ -76,7 +76,7 @@
       "KC_RALT",
       "KC_APP",
       "KC_RCTL",
-      "KC_NO"
+      "MEH(KC_NO)"
     ],
     [
       "KC_ESC",
